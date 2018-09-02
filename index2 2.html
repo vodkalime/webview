@@ -7,33 +7,23 @@
 <link href="new1.css" rel="stylesheet" type="text/css">
 <style>
 ul {
-	list-style-type: none;/*style the list and delete the dot at the beginning line*/
-	margin: 0px;
-	padding: 0px;
-	position: fixed;
-	top: 10px;
-	left: 0px;
-	width: 100%;
-	background-color: #3D6596;
-}
-li {
 	display: inline;
-	/*float: left;*/
+	list-style-type: none;/*style the list and delete the dot at the beginning line*/
+	margin: 0;
+	padding: 0;
+	width: 60px;
+	border: none;
+	width: 30%;
+	height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
 li a {
-	padding-right: 8px;
-	padding-left: 8px;
+	display: block;
 	background-color: antiquewhite;
 }
 li a:hover {
 	background-color: aquamarine;
-}
-li a:hover:not(.active) {
-	background-color: #111;
-}
-.active {
-	background-color: #FFB1B2;
-	color: cornsilk;
 }
 </style>
 </head>
@@ -45,13 +35,9 @@ li a:hover:not(.active) {
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <ul>
-  <li><a class="active" href="#" >home</a></li>
+  <li><a href="#">home</a></li>
   <li><a href="#">tools</a></li>
   <li><a href="#">links</a></li>
-  <li><a href="#">links</a></li>
-  <li><a href="#">about</a></li>
 </ul>
-<p>&nbsp;</p>
-<p>https://www.w3schools.com/css/css_navbar.asp</p>
 </body>
 </html>
