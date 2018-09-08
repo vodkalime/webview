@@ -1,4 +1,15 @@
 @charset "UTF-8";
+/*ID Selector*/
 #idone {
 	font-weight: 600;
 }
+/*Class Selector*/
+.bgfill {
+	background-color: #C1C1C1;
+}
+.dft_font {
+	font-family: 'Dosis', sans-serif;
+	font-weight: 800;
+}
+h4 {font-family: 'Dosis', sans-serif;
+	font-weight: 100; }
