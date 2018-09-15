@@ -19,7 +19,20 @@
 }
 body {
 }
-.gooh1 {font-weight: 600; font-size: 18px;
+.gooh1 {
+	font-weight: 600;
+	font-size: 18px;
+	background-color: tomato;
+	line-height: 30px;
+	color: white;
 }
-.gooh3 {font-weight: 400; font-size: 12px;
+.gooh3 {
+	font-weight: 400;
+	font-size: 12px;
+}
+.gooh4 {
+	font-weight: inherit;
+	font-size: 9px;
+		background-color: aqua;
+	line-height: inherit;
 }
