@@ -1,0 +1,25 @@
+@charset "UTF-8";
+#core {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	margin: auto;
+	background-color: antiquewhite;
+	max-width: 720px;
+	border-radius: 5px;
+	min-height: 200px;
+	background-repeat: no-repeat;
+	padding-top: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+}
+#top {
+}
+#bot {
+}
+body {
+}
+.gooh1 {font-weight: 600; font-size: 18px;
+}
+.gooh3 {font-weight: 400; font-size: 12px;
+}
