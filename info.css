@@ -8,10 +8,11 @@
 	border-radius: 5px;
 	min-height: 200px;
 	background-repeat: no-repeat;
-	padding-top: 4px;
-	padding-right: 4px;
-	padding-bottom: 4px;
-	padding-left: 4px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow: hidden;
 }
 #top {
 }
@@ -21,18 +22,22 @@ body {
 }
 .gooh1 {
 	font-weight: 600;
-	font-size: 18px;
+	font-size: 17px;
 	background-color: tomato;
 	line-height: 30px;
 	color: white;
 }
-.gooh3 {
-	font-weight: 400;
-	font-size: 12px;
+.gooh2 {
+	font-weight: 600;
+	font-size: 18px;
+	background-color: #006BCB;
+	line-height: 30px;
+	color: white;
 }
-.gooh4 {
-	font-weight: inherit;
-	font-size: 9px;
-		background-color: aqua;
-	line-height: inherit;
+.gooh3 {
+	font-weight: 600;
+	font-size: 18px;
+	background-color: #00B6CB;
+	line-height: 30px;
+	color: white;
 }
