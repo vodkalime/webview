@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/*ID Selector*/
+#idone {
+	font-weight: 600;
+}
+/*Class Selector*/
+.bgfill {
+	background-color: #C1C1C1;
+}
+.dft_font {
+	font-family: 'Dosis', sans-serif;
+	font-weight: 800;
+}
+h4 {
+	font-family: 'Dosis', sans-serif;
+	font-weight: 100;
+}
+#div10 {
+	height: 100px;
+}
+.box {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.box div {
+	width: 100px;
+	height: 100px;
+}
+#div10 .box div {
+	background-color: antiquewhite;
+}

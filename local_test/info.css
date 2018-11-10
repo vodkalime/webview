@@ -1,0 +1,43 @@
+@charset "UTF-8";
+#core {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	margin: auto;
+	background-color: antiquewhite;
+	max-width: 720px;
+	border-radius: 5px;
+	min-height: 200px;
+	background-repeat: no-repeat;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	overflow: hidden;
+}
+#top {
+}
+#bot {
+}
+body {
+}
+.gooh1 {
+	font-weight: 600;
+	font-size: 17px;
+	background-color: tomato;
+	line-height: 30px;
+	color: white;
+}
+.gooh2 {
+	font-weight: 600;
+	font-size: 18px;
+	background-color: #006BCB;
+	line-height: 30px;
+	color: white;
+}
+.gooh3 {
+	font-weight: 600;
+	font-size: 18px;
+	background-color: #00B6CB;
+	line-height: 30px;
+	color: white;
+}
